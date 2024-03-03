@@ -8,7 +8,7 @@ main{
   height: 100%;
 }
 .container{
-  background-image: url('pc.jpg');
+  background-image: url('Pc.jpg');
   background-repeat: no-repeat;
   background-position: right top ;
   background-size: cover;
