@@ -15,6 +15,7 @@
 ## 🔰How to play ?
 1. Download or fork the code.⬇️
 2. Or navigate to `https://EzazAA.github.io/Tic-tac-toe-JS-v.1.1.0/`📎
+3. Download the `Compressed file TICTACTOEJS.zip`🗃️
 
 ## 🔰Contribution
 1. contributions are invited.😊
